@@ -24,6 +24,10 @@ A browser-based image classifier that uses TensorFlow.js and MobileNet to identi
 3. Click "Classify Image"
 4. View the top 5 predicted classes with confidence percentages
 
+## Screenshot
+![ImageNet Classifier](https://i.imgur.com/TLLJuEn.png)
+
+
 ## Development
 
 To run this project locally, simply clone the repository and open `index.html` in your browser.
